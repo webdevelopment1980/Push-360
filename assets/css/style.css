@@ -849,6 +849,12 @@ section {
   /* font-family: popins; */
 }
 
+.custom-bottom-left2 {
+  position: absolute;
+  bottom: 9px;
+  left: 16px;
+}
+
 .paragraph {
   color: #fff;
   font-size: 15px;
